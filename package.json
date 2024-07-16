@@ -1,0 +1,11 @@
+{
+  "name": "flat-file-db",
+  "version": "0.0.1",
+  "description": "A flat file db, to use for demonstration purposes",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
