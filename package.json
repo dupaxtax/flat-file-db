@@ -4,8 +4,12 @@
   "description": "A flat file db, to use for demonstration purposes",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "foo": "flat-file-db"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
 }
