@@ -1,1 +1,0 @@
-exports.models = ['test.json'];
